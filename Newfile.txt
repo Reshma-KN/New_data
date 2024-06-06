@@ -1,0 +1,3 @@
+python is very simple
+easy to learn
+high level language
